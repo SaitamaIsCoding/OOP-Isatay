@@ -14,7 +14,7 @@ public class Rectangle {
         }
 
         public Rectangle(double width, double height) {
-            this(); // вызов конструктора по умолчанию
+            this();
             setWidth(width);
             setHeight(height);
         }
